@@ -1,15 +1,18 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.31618457.css",
-    "main.js": "/portfolio/static/js/main.11b5211e.js",
+    "main.js": "/portfolio/static/js/main.a0e93d81.js",
     "static/media/FGP1.pdf": "/portfolio/static/media/FGP1.c17b84db084831287dd5.pdf",
     "static/media/video-1.mp4": "/portfolio/static/media/video-1.59e75226d30ad48f9ede.mp4",
     "static/media/img-2.jpg": "/portfolio/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
     "static/media/img-4.jpg": "/portfolio/static/media/img-4.a31875b76d39f6458a6e.jpg",
+    "static/media/IFA.png": "/portfolio/static/media/IFA.9ea1f04a01fe3ae0b191.png",
     "static/media/img-3.jpg": "/portfolio/static/media/img-3.6d683c0ee6824af7961a.jpg",
     "static/media/img-1.jpg": "/portfolio/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/WRA.png": "/portfolio/static/media/WRA.33e83fc21cf358043ba3.png",
     "static/media/img-8.jpg": "/portfolio/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
-    "static/media/AbdullahSyedResume(2023).pdf": "/portfolio/static/media/AbdullahSyedResume(2023).41579aab1bfef49e4b50.pdf",
+    "static/media/Abdullah_Syed_Resume_2023.pdf": "/portfolio/static/media/Abdullah_Syed_Resume_2023.0b54b7fd16e6f925af82.pdf",
+    "static/media/ASL.png": "/portfolio/static/media/ASL.1c0b92c0ce6930acf354.png",
     "static/media/FG.png": "/portfolio/static/media/FG.d3e47001ab2c733f552c.png",
     "static/media/github.svg": "/portfolio/static/media/github.ebd452bf402237ef25876cdcac686676.svg",
     "index.html": "/portfolio/index.html",
@@ -17,10 +20,10 @@
     "static/media/envelope-regular.svg": "/portfolio/static/media/envelope-regular.7df8d589eacd0a7f40f5685b6e551065.svg",
     "static/media/circle-down-solid.svg": "/portfolio/static/media/circle-down-solid.84f0e6606077cd39bdcd3ae40ae2e04a.svg",
     "main.31618457.css.map": "/portfolio/static/css/main.31618457.css.map",
-    "main.11b5211e.js.map": "/portfolio/static/js/main.11b5211e.js.map"
+    "main.a0e93d81.js.map": "/portfolio/static/js/main.a0e93d81.js.map"
   },
   "entrypoints": [
     "static/css/main.31618457.css",
-    "static/js/main.11b5211e.js"
+    "static/js/main.a0e93d81.js"
   ]
 }
