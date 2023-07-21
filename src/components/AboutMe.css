@@ -1,0 +1,29 @@
+.aboutme {
+    padding: 4rem;
+    background: #fff;
+  }
+  
+  .header {
+    font-size: 45px;
+    text-align: left;
+    white-space: nowrap;
+    font-family: Arial, sans-serif;
+    font-weight: 550;
+  }
+  
+  .paragraph {
+    font-size: 16.5px;
+    text-align: justify;
+    font-family: "Arial", sans-serif;
+    border: 5px solid grey; /* Add a 1px solid black border */
+    border-radius: 10px;
+    padding: 15px; 
+    line-height: 1.2;
+  }
+  
+  .image-wrapper {
+    width: 510px; /* Set the width with highest priority */
+    height: auto; /* Specify the height with the appropriate unit */
+  }
+  
+  
