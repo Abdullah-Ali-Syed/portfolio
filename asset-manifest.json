@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.efae269e.css",
-    "main.js": "/portfolio/static/js/main.e7c2f110.js",
+    "main.css": "/portfolio/static/css/main.f3c8ad68.css",
+    "main.js": "/portfolio/static/js/main.bcf6e1de.js",
     "static/media/FGP1.pdf": "/portfolio/static/media/FGP1.c17b84db084831287dd5.pdf",
+    "static/media/video-2.mp4": "/portfolio/static/media/video-2.39e6c79bffb375ae929a.mp4",
     "static/media/video-1.mp4": "/portfolio/static/media/video-1.59e75226d30ad48f9ede.mp4",
     "static/media/img-2.jpg": "/portfolio/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
     "static/media/img-4.jpg": "/portfolio/static/media/img-4.a31875b76d39f6458a6e.jpg",
@@ -10,6 +11,7 @@
     "static/media/img-3.jpg": "/portfolio/static/media/img-3.6d683c0ee6824af7961a.jpg",
     "static/media/img-1.jpg": "/portfolio/static/media/img-1.53f4843759ebec256cb9.jpg",
     "static/media/WRA.png": "/portfolio/static/media/WRA.33e83fc21cf358043ba3.png",
+    "static/media/img-home.jpg": "/portfolio/static/media/img-home.c034239ee9a63564602b.jpg",
     "static/media/img-8.jpg": "/portfolio/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
     "static/media/Abdullah_Syed_Resume_2023.pdf": "/portfolio/static/media/Abdullah_Syed_Resume_2023.5c9df5756c569189e09a.pdf",
     "static/media/ASL.png": "/portfolio/static/media/ASL.1c0b92c0ce6930acf354.png",
@@ -18,11 +20,11 @@
     "index.html": "/portfolio/index.html",
     "static/media/linkedin.svg": "/portfolio/static/media/linkedin.93683c2cc3d5ca884dcf6c3525104a48.svg",
     "static/media/envelope-regular.svg": "/portfolio/static/media/envelope-regular.7df8d589eacd0a7f40f5685b6e551065.svg",
-    "main.efae269e.css.map": "/portfolio/static/css/main.efae269e.css.map",
-    "main.e7c2f110.js.map": "/portfolio/static/js/main.e7c2f110.js.map"
+    "main.f3c8ad68.css.map": "/portfolio/static/css/main.f3c8ad68.css.map",
+    "main.bcf6e1de.js.map": "/portfolio/static/js/main.bcf6e1de.js.map"
   },
   "entrypoints": [
-    "static/css/main.efae269e.css",
-    "static/js/main.e7c2f110.js"
+    "static/css/main.f3c8ad68.css",
+    "static/js/main.bcf6e1de.js"
   ]
 }
