@@ -4,7 +4,9 @@ import "./Navbar.css";
 import resumeFile from "../assets/Abdullah_Syed_Resume_2023.pdf";
 import { Link, animateScroll as scroll } from "react-scroll";
 import "bootstrap/dist/css/bootstrap.min.css";
-import "bootstrap/dist/js/bootstrap.min.js";
+//import "bootstrap/dist/js/bootstrap.min.js";
+import { Collapse } from "bootstrap"; // Import the Collapse component from Bootstrap JavaScript
+
 
 const handleDownloadResume = (event) => {
   event.preventDefault(); // Prevent default navigation behavior
@@ -19,7 +21,28 @@ const handleDownloadResume = (event) => {
   //window.open(resumeFile, '_blank', 'noopener,noreferrer');
 };
 
+
+
+
 function Navbar() {
+
+  const [isNavbarCollapsed, setNavbarCollapsed] = useState(true);
+const handleButtonClick = () => {
+  setNavbarCollapsed(!isNavbarCollapsed);
+};
+  
+  useEffect(() => {
+    const navElement = document.getElementById("nav");
+    const navCollapse = new Collapse(navElement, { toggle: false });
+
+    if (!isNavbarCollapsed) {
+      navCollapse.show();
+    } else {
+      navCollapse.hide();
+    }
+  }, [isNavbarCollapsed]);
+
+
   return (
     <>
       <nav
@@ -48,17 +71,21 @@ function Navbar() {
           </Link>
 
           <button
+            type = "button"
             className="navbar-toggler"
             data-bs-toggle="collapse"
             data-bs-target="#nav"
             aria-controls="nav"
             aria-label="Expand Navigation"
             style={{ background: "white" }}
+            onClick={handleButtonClick}
           >
             <div className="navbar-toggler-icon"></div>
           </button>
           <div
-            className="collapse navbar-collapse justify-content-end"
+            className={`collapse navbar-collapse justify-content-end ${
+              isNavbarCollapsed ? "" : "show"
+            }`}
             id="nav"
           >
             <ul className="navbar-nav">

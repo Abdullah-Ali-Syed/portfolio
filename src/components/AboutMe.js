@@ -4,8 +4,9 @@ import "./AboutMe.css";
 function AboutMe() {
   return (
     <div className="aboutme" id="about" style={{ background: "white" }}>
+      <div className="container-lg">
       <div className="row">
-        <div className="col-sm-5">
+        <div className="col-lg-5">
           <div className="header" style={{ textAlign: "left" }}>
             Get to know me better:
           </div>
@@ -15,9 +16,8 @@ function AboutMe() {
           >
             <img
               src="https://i.pinimg.com/originals/00/c5/37/00c537bdf08547f031540521892e5aa7.gif"
-              class="img-fluid"
+              className="img-fluid"
               alt="Profile"
-              style={{ width: "500px", height: "auto" }}
             />
           </div>
         </div>
@@ -76,6 +76,43 @@ function AboutMe() {
               free to reach out to me, and let's create something amazing
               together!
             </p>
+          </div>
+        </div>
+      </div>
+      </div>
+      <div className="container-sm">
+        <div className="row">
+          <div className="col" style={{textAlign:"center"}}>
+              <h1 style={{fontWeight:"600"}}>
+                Get to know me better:
+              </h1>
+          </div>
+        </div>
+        <div className="row">
+        <div className="col">
+            <img
+            src="https://i.pinimg.com/originals/00/c5/37/00c537bdf08547f031540521892e5aa7.gif"
+            className="img-fluid"
+            />
+          </div>
+        </div>
+        <div className="row">
+          <div className="col" style={{position:"left"}}>
+          <div className="paragraph" style={{textAlign:"left"}}>
+            <p>
+              I'm an aspiring Electrical Engineering student at Toronto Metropolitan University, driven by a passion for problem-solving. My academic journey has honed my skills in electronic circuits, signal processing, and control systems.
+            </p>
+
+            <p>
+              My hands-on experience includes circuit design projects such as developing a voltage-controlled frequency function generator. Additionally, I have experience designing both analog and digital control systems, delving into system dynamics and parameter fine-tuning for specific requirements.
+            </p>
+            <p>
+              I'm dedicated to community service, actively supporting the Sheen for She Foundation, aiding the homeless crisis. Engaging in marketing, event management, and logistics, I've experienced the transformative impact of community engagement firsthand.
+            </p>
+            <p>
+              I'm driven by curiosity and creativity, always seeking new challenges to grow. I am open to collaborations and passionate about making a difference. Let's connect and create something amazing together!
+            </p>
+          </div>
           </div>
         </div>
       </div>

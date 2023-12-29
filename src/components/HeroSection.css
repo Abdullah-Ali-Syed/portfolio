@@ -6,6 +6,24 @@ video {
   z-index: -1;
 }
 
+.container-sm.backimage {
+  background-image: url('../images/img-home.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+  object-fit: cover;
+  width: 200%;
+  height: 100%;
+  position: fixed;
+  z-index: -1;
+  background-color: rgba(0, 0, 0, 0.9); /* Use a semi-transparent background color */
+}
+
+
+
+
+
 .hero-container {
   /* background: url('/images/img-home.jpg') center center/cover no-repeat; */
   height: 100vh;
@@ -58,29 +76,20 @@ video {
   color: black;
 }
 
-@media screen and (max-width: 960px) {
-  .hero-container > h1 {
-    font-size: 70px;
-    margin-top: -150px;
-  }
+/* Default styles for larger screens */
+.container-lg {
+  display: block; /* This ensures it is visible by default for larger screens */
+}
+.container-sm {
+  display: none; /* This ensures it is hidden by default for smaller screens */
 }
 
-@media screen and (max-width: 768px) {
-  .hero-container > h1 {
-    font-size: 50px;
-    margin-top: -100px;
+/* Media query for smaller screens (up to 767px) */
+@media (max-width: 767px) {
+  .container-lg {
+    display: none; /* Hide the larger screen content for smaller screens */
   }
-
-  .hero-container > p {
-    font-size: 30px;
-  }
-
-  .btn-mobile {
-    display: block;
-    text-decoration: none;
-  }
-
-  .btn {
-    width: 100%;
+  .container-sm {
+    display: block; /* Show the smaller screen content for screens up to 767px */
   }
 }

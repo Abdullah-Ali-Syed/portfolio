@@ -26,4 +26,20 @@
     height: auto; /* Specify the height with the appropriate unit */
   }
   
-  
+/* Default styles for larger screens */
+.container-lg {
+  display: block; /* This ensures it is visible by default for larger screens */
+}
+.container-sm {
+  display: none; /* This ensures it is hidden by default for smaller screens */
+}
+
+/* Media query for smaller screens (up to 767px) */
+@media (max-width: 767px) {
+  .container-lg {
+    display: none; /* Hide the larger screen content for smaller screens */
+  }
+  .container-sm {
+    display: block; /* Show the smaller screen content for screens up to 767px */
+  }
+}
