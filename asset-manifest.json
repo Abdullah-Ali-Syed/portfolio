@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.2d4637f2.css",
-    "main.js": "/portfolio/static/js/main.52c1d753.js",
+    "main.css": "/portfolio/static/css/main.6d037bb0.css",
+    "main.js": "/portfolio/static/js/main.6eb9fbe4.js",
     "static/media/FGP1.pdf": "/portfolio/static/media/FGP1.55fd01025ead74fcf075.pdf",
     "static/media/video-2.mp4": "/portfolio/static/media/video-2.39e6c79bffb375ae929a.mp4",
     "static/media/img-10.jpg": "/portfolio/static/media/img-10.f3ac5bdb2334a2620c93.jpg",
     "static/media/video-1.mp4": "/portfolio/static/media/video-1.59e75226d30ad48f9ede.mp4",
-    "static/media/img-2.jpg": "/portfolio/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
     "static/media/img-4.jpg": "/portfolio/static/media/img-4.a31875b76d39f6458a6e.jpg",
     "static/media/IFA.png": "/portfolio/static/media/IFA.9ea1f04a01fe3ae0b191.png",
     "static/media/img-3.jpg": "/portfolio/static/media/img-3.6d683c0ee6824af7961a.jpg",
@@ -14,18 +13,19 @@
     "static/media/WRA.png": "/portfolio/static/media/WRA.33e83fc21cf358043ba3.png",
     "static/media/img-home.jpg": "/portfolio/static/media/img-home.c034239ee9a63564602b.jpg",
     "static/media/img-8.jpg": "/portfolio/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
-    "static/media/Abdullah_Syed_Resume_2024.pdf": "/portfolio/static/media/Abdullah_Syed_Resume_2024.a47cd7c4661f7fcd3860.pdf",
+    "static/media/Abdullah_Syed_Resume_2024.pdf": "/portfolio/static/media/Abdullah_Syed_Resume_2024.77bcb22e5471a61a7c80.pdf",
+    "static/media/NILM.png": "/portfolio/static/media/NILM.d5a37516f16dffe65b80.png",
     "static/media/ASL.png": "/portfolio/static/media/ASL.1c0b92c0ce6930acf354.png",
     "static/media/FG.png": "/portfolio/static/media/FG.d3e47001ab2c733f552c.png",
     "static/media/github.svg": "/portfolio/static/media/github.ebd452bf402237ef25876cdcac686676.svg",
     "index.html": "/portfolio/index.html",
     "static/media/linkedin.svg": "/portfolio/static/media/linkedin.93683c2cc3d5ca884dcf6c3525104a48.svg",
     "static/media/envelope-regular.svg": "/portfolio/static/media/envelope-regular.7df8d589eacd0a7f40f5685b6e551065.svg",
-    "main.2d4637f2.css.map": "/portfolio/static/css/main.2d4637f2.css.map",
-    "main.52c1d753.js.map": "/portfolio/static/js/main.52c1d753.js.map"
+    "main.6d037bb0.css.map": "/portfolio/static/css/main.6d037bb0.css.map",
+    "main.6eb9fbe4.js.map": "/portfolio/static/js/main.6eb9fbe4.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d4637f2.css",
-    "static/js/main.52c1d753.js"
+    "static/css/main.6d037bb0.css",
+    "static/js/main.6eb9fbe4.js"
   ]
 }
