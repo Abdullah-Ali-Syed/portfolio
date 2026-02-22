@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.6d037bb0.css",
-    "main.js": "/portfolio/static/js/main.6eb9fbe4.js",
+    "main.js": "/portfolio/static/js/main.a29618ab.js",
     "static/media/FGP1.pdf": "/portfolio/static/media/FGP1.55fd01025ead74fcf075.pdf",
     "static/media/video-2.mp4": "/portfolio/static/media/video-2.39e6c79bffb375ae929a.mp4",
     "static/media/img-10.jpg": "/portfolio/static/media/img-10.f3ac5bdb2334a2620c93.jpg",
@@ -13,8 +13,8 @@
     "static/media/WRA.png": "/portfolio/static/media/WRA.33e83fc21cf358043ba3.png",
     "static/media/img-home.jpg": "/portfolio/static/media/img-home.c034239ee9a63564602b.jpg",
     "static/media/img-8.jpg": "/portfolio/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
-    "static/media/Abdullah_Syed_Resume_2024.pdf": "/portfolio/static/media/Abdullah_Syed_Resume_2024.77bcb22e5471a61a7c80.pdf",
     "static/media/NILM.png": "/portfolio/static/media/NILM.d5a37516f16dffe65b80.png",
+    "static/media/Abdullah_Syed_Resume_2026.pdf": "/portfolio/static/media/Abdullah_Syed_Resume_2026.9802c6634f741a635828.pdf",
     "static/media/ASL.png": "/portfolio/static/media/ASL.1c0b92c0ce6930acf354.png",
     "static/media/FG.png": "/portfolio/static/media/FG.d3e47001ab2c733f552c.png",
     "static/media/github.svg": "/portfolio/static/media/github.ebd452bf402237ef25876cdcac686676.svg",
@@ -22,10 +22,10 @@
     "static/media/linkedin.svg": "/portfolio/static/media/linkedin.93683c2cc3d5ca884dcf6c3525104a48.svg",
     "static/media/envelope-regular.svg": "/portfolio/static/media/envelope-regular.7df8d589eacd0a7f40f5685b6e551065.svg",
     "main.6d037bb0.css.map": "/portfolio/static/css/main.6d037bb0.css.map",
-    "main.6eb9fbe4.js.map": "/portfolio/static/js/main.6eb9fbe4.js.map"
+    "main.a29618ab.js.map": "/portfolio/static/js/main.a29618ab.js.map"
   },
   "entrypoints": [
     "static/css/main.6d037bb0.css",
-    "static/js/main.6eb9fbe4.js"
+    "static/js/main.a29618ab.js"
   ]
 }
